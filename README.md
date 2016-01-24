@@ -1,6 +1,6 @@
-# Welcom to my testapp
+# Welcome to my testapp..
 
-## Getting started..
+## Getting started...
 
 1. You can fork the testapp at https://github.com/RyGuy860/testapp
 2. Make sure you have Python, Flask and Virtualenv installed on your system.
